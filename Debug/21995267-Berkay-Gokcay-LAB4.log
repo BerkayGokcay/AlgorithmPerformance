@@ -1,0 +1,12 @@
+﻿  21995267-Berkay-Gokcay-LAB4.cpp
+C:\Users\Berkay\Desktop\OKUL 2.SINIF\BİL265\265 Vize çalışmaları\21995267-Berkay-Gokcay-LAB4\d_sort.h(234,16): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Berkay\Desktop\OKUL 2.SINIF\BİL265\265 Vize çalışmaları\21995267-Berkay-Gokcay-LAB4\d_random.h(46,15): warning C4244: 'başlatılıyor': 'time_t' - 'long' dönüşümü; veri kaybı olabilir
+C:\Users\Berkay\Desktop\OKUL 2.SINIF\BİL265\265 Vize çalışmaları\21995267-Berkay-Gokcay-LAB4\d_sort.h(478,28): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Berkay\Desktop\OKUL 2.SINIF\BİL265\265 Vize çalışmaları\21995267-Berkay-Gokcay-LAB4\21995267-Berkay-Gokcay-LAB4.cpp(35): message : derlenen şablon işlevi 'void exchangeSort<int>(std::vector<int,std::allocator<int>> &,int)' örneği oluşturma başvurusuna bakın
+C:\Users\Berkay\Desktop\OKUL 2.SINIF\BİL265\265 Vize çalışmaları\21995267-Berkay-Gokcay-LAB4\d_sort.h(480,29): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Berkay\Desktop\OKUL 2.SINIF\BİL265\265 Vize çalışmaları\21995267-Berkay-Gokcay-LAB4\d_sort.h(495,15): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Berkay\Desktop\OKUL 2.SINIF\BİL265\265 Vize çalışmaları\21995267-Berkay-Gokcay-LAB4\21995267-Berkay-Gokcay-LAB4.cpp(38): message : derlenen şablon işlevi 'void bubbleSort<int>(std::vector<int,std::allocator<int>> &,int)' örneği oluşturma başvurusuna bakın
+C:\Users\Berkay\Desktop\OKUL 2.SINIF\BİL265\265 Vize çalışmaları\21995267-Berkay-Gokcay-LAB4\d_sort.h(330,26): warning C4018: '<': imzalı/imzasız uyuşmazlığı
+C:\Users\Berkay\Desktop\OKUL 2.SINIF\BİL265\265 Vize çalışmaları\21995267-Berkay-Gokcay-LAB4\d_sort.h(352): message : derlenen şablon işlevi 'void merge<int>(std::vector<int,std::allocator<int>> &,int,int,int)' örneği oluşturma başvurusuna bakın
+C:\Users\Berkay\Desktop\OKUL 2.SINIF\BİL265\265 Vize çalışmaları\21995267-Berkay-Gokcay-LAB4\21995267-Berkay-Gokcay-LAB4.cpp(26): message : derlenen şablon işlevi 'void mergeSort<int>(std::vector<int,std::allocator<int>> &,int,int)' örneği oluşturma başvurusuna bakın
+  21995267-Berkay-Gokcay-LAB4.vcxproj -> C:\Users\Berkay\Desktop\OKUL 2.SINIF\BİL265\265 Vize çalışmaları\21995267-Berkay-Gokcay-LAB4\Debug\21995267-Berkay-Gokcay-LAB4.exe
